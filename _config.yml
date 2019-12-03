@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : *mokill
-  avatar           : "assets/images/MOK.jpg" 
+  avatar           : "/assets/images/MOK.jpg" 
   bio              : "Directeur de Recherche CNRS on secondment, Professor of Computer Science UQAM"
   location         : "UQAM, MTL"
   email            : "killijian.marc-olivier@uqam.ca"
