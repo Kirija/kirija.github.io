@@ -11,7 +11,7 @@ redirect_from:
 <!-- <span class="badge badge-pill badge-primary">Primary</span>
 <span class="badge badge-pill badge-success">Success</span> -->
 
-Since Winter 2020, I am a _Professeur_ of Computing Science at [_Universite du Quebec à Montreal_](https://uqam.ca/) (UQAM), member of the [_Departement d'Informatique_](https://info.uqam.ca/) and of the [_LATECE_](https://latece.uqam.ca). I'm interested in security, privacy and applied cryptography.
+Since Winter 2020, I am a _Professeur_ of Computing Science at [_Universite du Quebec a Montreal_](https://uqam.ca/) (UQAM), member of the [_Departement d'Informatique_](https://info.uqam.ca/) and of the [_LATECE_](https://latece.uqam.ca). I'm interested in security, privacy and applied cryptography.
 
 An important part of my research is concerned with exploiting the latest developments of homomorphic encryption in order to provide better _Privacy Enhancing Technologies_. For example, we developped the [_NFLLib_](https://github.com/quarkslab/NFLlib) toolkit and [_XPIR_ Private Information Retrieval](https://github.com/XPIR-team/XPIR) on top of it.
 
