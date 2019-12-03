@@ -9,5 +9,5 @@ location: "Toulouse, France"
 ---
 
 Il s'agit d'un cours que j'ai donne de 2015 a 2019.
-Voir [_sa page web_]{https:/homepages.laas.fr/~mkilliji/BEPrivacy}
+Voir [_sa page web_](https:/homepages.laas.fr/~mkilliji/BEPrivacy)
 
