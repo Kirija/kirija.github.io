@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 # Site Settings
 
+encoding: utf-8
 locale                   : "fr-FR"
 title                    : "Marc-Olivier Killijian"
 title_separator          : "-"
