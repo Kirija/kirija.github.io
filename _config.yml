@@ -162,8 +162,8 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
+  positions:
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -208,10 +208,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _positions
   - scope:
       path: ""
-      type: portfolio
+      type: positions
     values:
       layout: single
       author_profile: true

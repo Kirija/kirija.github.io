@@ -6,12 +6,12 @@ redirect_from:
   - /students.html
 ---
 
-## Current students
+## Current PhD students
 
   - Cédric Lefebvre - co-supervised with Carlos Aguilar - 2014-2020 - Application of Homomorphic Encryption to Privacy Enhancing Technologies
   - Antoine Laurent - co-supervised with Sébastien Gambs - 2019-20xx - Geoprivacy
 
-## Alumni
+## Alumni (PhDs)
 
   - [Ulrich Aïvodji](https://aivodji.github.io) - co-supervised with Marie-Jo Huguet - 2018 - Technologies respectueuses de la vie privée pour le covoiturage - Postdoc UQAM
   - Joris Barrier - co-supervised with Carlos Aguilar - 2016 - Chiffrement homomorphe appliqué au retrait d’information privé - Ingénieur Sécurité Airbus, France
