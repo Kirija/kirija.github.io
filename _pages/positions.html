@@ -34,11 +34,12 @@ author_profile: true
 					<a href="{{ o.url }}"><strong>{{o.title}}</strong></a>.
 				</span><br />
 				<span class="authors">
-					{% assign my_array = "" | split: ", " %}
-					{% for s in o.people %}
+					<!-- {% assign my_array = "" | split: ", " %} -->
+					<!-- {% for s in o.people %}
 						  {% assign my_array = my_array | push: site.data.people[s].display_name %}
-					{% endfor %}
-					<i> Supervision: {{ my_array | array_to_sentence_string }} </i>
+					{% endfor %} -->
+					<!-- <i> Supervision: {{ my_array | array_to_sentence_string }} </i> -->
+					<i> Supervision: "{{ o.people }}" </i>
 				</span><br />
 			</td>
       <td>
