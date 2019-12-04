@@ -158,16 +158,16 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+    #permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
   positions:
     output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+    #permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -197,8 +197,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
+  # _positions
+  - scope:
+      path: ""
+      type: positions
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
   # _publications
   - scope:
       path: ""
@@ -207,16 +216,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _positions
-  - scope:
-      path: ""
-      type: positions
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+      comments: true	  
   # _talks
   - scope:
       path: ""
