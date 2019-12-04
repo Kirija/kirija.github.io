@@ -8,8 +8,84 @@ author_profile: true
 <div class="jumbotron">
   <p style="text-align:justify; font-style: italic;"> A compter de janvier 2020, je suis a la recherche d'etudiants motives, candidats a la maitrise et au doctorat sur des sujets passionants lies a la cryptographie appliquee, a la protection de la vie privee, dans des cadres theoriques et appliques. Ci-dessous vous trouverez une liste de sujets associes a des financements en cours, mais n'hesitez pas a venir discuter si un autre sujet oriente securite ou vie-privee vous passionne.
 </div>
-{% include base_path %}
+	
+<table class="table">
+	<tbody>
 
-{% for post in site.positions reversed %}
-  {% include archive-single.html %}
+{% assign offers = site.positions | where: 'available', 'true' | sort: 'priority', 'first' %}
+{% for o in offers %}
+		<tr>
+		<td class="text-center">
+    {% for l in o.level %}
+        {% case l %}
+          {% when 'PhD' %}
+				      <span class="badge badge-pill badge-danger">
+          {% when 'MSc' %}
+      		    <span class="badge badge-pill badge-warning">
+          {% when 'BSc' %}
+              <span class="badge badge-pill badge-info">
+          {% else %}
+              <span class="badge badge-pill badge-secondary">
+        {%endcase%}{{ l }}</span><br />
+    {% endfor %}
+			</td>
+			<td class="publication">
+				<span class="pubtitle">
+					<a href="{{ o.url }}"><strong>{{o.title}}</strong></a>.
+				</span><br />
+				<span class="authors">
+					{% assign my_array = "" | split: ", " %}
+					{% for s in o.people %}
+						  {% assign my_array = my_array | push: site.data.people[s].display_name %}
+					{% endfor %}
+					<i> Supervision: {{ my_array | array_to_sentence_string }} </i>
+				</span><br />
+			</td>
+      <td>
+        {% if o.funding %}
+        <i class="fas fa-dollar-sign"></i>
+        {% endif %}
+      </td>
+		</tr>
 {% endfor %}
+</tbody>
+</table>
+
+
+<p style="text-align:justify; font-style: italic;">
+  Offers flagged with a <i class="fas fa-dollar-sign"></i> are coming with a secured funding. For other subjects, there is no dedicated funding, but we can provide help to apply to grants. If you are interested in a given subject, feel free to discuss with the supervisors to find the best option that might apply for your specific case.
+</p>
+
+
+
+<h2>Old offers</h2>
+
+<table class="table" style="color: #999">
+	<tbody>
+
+{% assign offers_by_date = site.positions | sort: 'last-updated', 'first' %}
+{% assign offers = offers_by_date | reverse | where: 'available', 'false' %}
+{% for o in offers %}
+		<tr>
+		<td class="text-center">
+        {% for l in o.level %}
+				<span class="badge badge-pill badge-light">{{ l }}</span><br/>
+        {% endfor %}
+			</td>
+			<td class="publication">
+				<span class="pubtitle">
+					<strong>{{o.title}}</strong>.
+				</span><br />
+				<span class="authors">
+					{% assign my_array = "" | split: ", " %}
+					{% for s in o.people %}
+						  {% assign my_array = my_array | push: site.data.people[s].display_name %}
+					{% endfor %}
+					<i> Supervision: {{ my_array | array_to_sentence_string }} </i>
+				</span><br />
+			</td>
+		</tr>
+{% endfor %}
+
+</tbody>
+</table>
