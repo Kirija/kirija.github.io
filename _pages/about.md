@@ -10,6 +10,7 @@ redirect_from:
 
 <!-- <span class="badge badge-pill badge-primary">Primary</span>
 <span class="badge badge-pill badge-success">Success</span> -->
+à 
 
 Since Winter 2020, I am a _Professeur_ of Computing Science at [_Universite du Quebec a Montreal_](https://uqam.ca/) (UQAM), member of the [_Departement d'Informatique_](https://info.uqam.ca/) and of the [_LATECE_](https://latece.uqam.ca). I'm interested in security, privacy and applied cryptography.
 
