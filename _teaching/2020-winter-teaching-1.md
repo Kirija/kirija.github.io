@@ -9,13 +9,5 @@ location: "Montreal, Quebbec"
 
 ---
 
-A venir
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+A l'hiver 2020, j'ai enseigné le cours INM6000, Informatique et Société, au Bac d'Informatique de l'UQAM.
+Tout le matériel de cours est sur Moodle.
