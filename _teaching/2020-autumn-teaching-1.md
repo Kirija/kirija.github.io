@@ -14,3 +14,4 @@ Le cours sera probablement proposé sur Moodle.
 
 L'objectif principal est d'initier les futurs professionnels en informatique aux problématiques de la sécurité informatique, le point de vue choisi sera donc celui d'un utilisateur d'outils informatique et pas forcément un professionnel de la sécurité informatique.
 
+Le cours était donné par [Sébastien Gambs](https://sebastiengambs.openum.ca/teaching/cours-actuels-universite-du-quebec-a-montreal/inf4471-introduction-a-la-securite-informatique/) auparavant.
