@@ -13,11 +13,11 @@ redirect_from:
 
 ## Alumni (PhDs)
 
-  - [Ulrich Aïvodji](https://aivodji.github.io) - co-supervised with Marie-Jo Huguet - 2018 - Technologies respectueuses de la vie privée pour le covoiturage - Postdoc UQAM
+  - [Ulrich Aïvodji](https://aivodji.github.io) - co-supervised with Marie-Jo Huguet - 2018 - Technologies respectueuses de la vie privée pour le covoiturage - Professeur ÉTS Montréal
   - Joris Barrier - co-supervised with Carlos Aguilar - 2016 - Chiffrement homomorphe appliqué au retrait d’information privé - Ingénieur Sécurité Airbus, France
   - Moussa Traoré - co-supervised with Matthieu Roy - 2015 - Sécurité et protection de la vie privée dans les preuves de localisation - Architecture Sécurité Cap- Gemini, France
   - [Miguel Nunez del Prado Cortez](https://www.up.edu.pe/Paginas/perfil-docente.aspx?idd=000186597) - co-supervised with Sébastien Gambs - 2013 - Attaques d’inférences sur données géolocalisées - Professeur Universidad del Pacifico, Pérou
-  - Hoang Nam Chu - co-supervised with David Powell - 2011 - Test et évaluation de la robustesse de la couche fonctionnelle d’un robot autonome
+  - Hoang Nam Chu - co-supervised with David Powell - 2011 - Test et évaluation de la robustesse de la couche fonctionnelle d’un robot autonome - Consultant Qualité Logiciel et Système Altran, France
   - Caroline Lu - co-supervised with Jean-Charles Fabre - 2009 - Logiciel embarqué automobile, Réflexivité, Tolérance aux fautes - Ingénieure de Recherche Valéo Siemens, Allemagne
   - Thomas Pareaud - co-supervised with Jean-Charles Fabre - 2009 - Adaptation en ligne de mécanismes de tolérance aux fautes par une approche à composants ouverts - Ingénieur de Recherche EADS, France
   - [Benjamin Lussier](https://www.hds.utc.fr/~blussier) - co-supervised with David Powell - 2007 - Tolérance aux fautes dans les systèmes autonomes - Professeur Université Tech- nologique de Compiègne, France
