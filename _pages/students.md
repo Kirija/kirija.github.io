@@ -8,8 +8,7 @@ redirect_from:
 
 ## Current PhD students
 
-  - Cédric Lefebvre - co-supervised with Carlos Aguilar - 2014-2020 - Application of Homomorphic Encryption to Privacy Enhancing Technologies
-  - Antoine Laurent - co-supervised with Sébastien Gambs - 2019-20xx - Geoprivacy
+  - Cédric Lefebvre - co-supervised with Carlos Aguilar - 2014-2021 - Application of Homomorphic Encryption to Privacy Enhancing Technologies
 
 ## Alumni (PhDs)
 
@@ -25,3 +24,7 @@ redirect_from:
   - Taha Bennani - co-supervised with Jean-Charles Fabre - 2005 - Tolérance aux fautes dans les systèmes répartis à base d’intergiciels réflexifs standards - Professeur Université de Tunis, Tunisie
   - [François Taïani](https://ftaiani.ouvaton.org) - co-supervised with Jean-Charles Fabre - 2004 - Réflexivité dans les architectures multi- niveaux : application aux systèmes tolérant les fautes - Professeur Université de Rennes, France
   - [Juan-Carlos Ruiz-Garcia](http://www.upv.es/pls/oalu/sic_per.info_persona?PE=78mSD%2FYIsTjcqGHggsf0ONTIL%2Bpmbukm8EM9eMosdof0i7lVQyCjFXaFOtRc0p0zAyXOIfqvaKoqEy%2FaL%2Fe%2F6dh3BDCFeeGAv%2FtALmMVDV2WOWhfkW%2F7VA%3D%3D&P_IDIOMA=c&P_TIPOBUS=0&P_VISTA=) - co-supervised with Jean-Charles Fabre - 2002 - Validation de systèmes réflexifs tolérants aux fautes - Professeur Universitat Politècnica de València, Espagne
+
+## Alumni (MScs)
+  - Antoine Laurent - co-supervised with Sébastien Gambs - 2019-2021 - Geoprivacy
+  - and a lor more i didn't track down
