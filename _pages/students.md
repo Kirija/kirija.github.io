@@ -7,11 +7,13 @@ redirect_from:
 ---
 
 ## Current PhD students
-
-  - Cédric Lefebvre - co-supervised with Carlos Aguilar - 2014-2021 - Application of Homomorphic Encryption to Privacy Enhancing Technologies
+  - Sofiane Azogagh - co-supervised with Sébastien Gambs - 2021-2025 - Chiffrement homomorphe et Apprentissage Machine
+  - Aubin Birba - co-supervised with Sébastien Gambs - 2022-2026 - Calcul Multi-parties Sécuritaire et Apprentissage Machine
+  - Victor Delfour - 2022-2026 - Chiffrement homomorphe et calcul inconscient
 
 ## Alumni (PhDs)
 
+  - [Cédric Lefebvre](https://www.linkedin.com/in/cédric-lefebvre-b67059261/) - co-supervised with Carlos Aguilar - 2021 - Application of Homomorphic Encryption to Privacy Enhancing Technologies - Ingénieur Sécurité Custocy, France
   - [Ulrich Aïvodji](https://aivodji.github.io) - co-supervised with Marie-Jo Huguet - 2018 - Technologies respectueuses de la vie privée pour le covoiturage - Professeur ÉTS Montréal
   - [Joris Barrier](https://www.linkedin.com/in/dr-joris-barrier-8248ba159/) - co-supervised with Carlos Aguilar - 2016 - Chiffrement homomorphe appliqué au retrait d’information privé - Ingénieur Sécurité Siemens, France
   - [Moussa Traoré](https://www.linkedin.com/in/traoremoussa/) - co-supervised with Matthieu Roy - 2015 - Sécurité et protection de la vie privée dans les preuves de localisation - Architecture Sécurité Cap- Gemini, France
@@ -25,6 +27,11 @@ redirect_from:
   - [François Taïani](https://ftaiani.ouvaton.org) - co-supervised with Jean-Charles Fabre - 2004 - Réflexivité dans les architectures multi- niveaux : application aux systèmes tolérant les fautes - Professeur Université de Rennes, France
   - [Juan-Carlos Ruiz-Garcia](http://www.upv.es/pls/oalu/sic_per.info_persona?PE=78mSD%2FYIsTjcqGHggsf0ONTIL%2Bpmbukm8EM9eMosdof0i7lVQyCjFXaFOtRc0p0zAyXOIfqvaKoqEy%2FaL%2Fe%2F6dh3BDCFeeGAv%2FtALmMVDV2WOWhfkW%2F7VA%3D%3D&P_IDIOMA=c&P_TIPOBUS=0&P_VISTA=) - co-supervised with Jean-Charles Fabre - 2002 - Validation de systèmes réflexifs tolérants aux fautes - Professeur Universitat Politècnica de València, Espagne
 
+## Current MScs students
+  - Mohadeseh Bagheri - 2023-2025 - Attaques d'appartenance par modèles ombres en boite noire
+  - Mahsa Abdoli - 2023-2025 - Attaques d'empoisonnement sur des GNNs
+  - Félix Larose-ÀGervais - 2024-2026 - Tri inconscient
+
 ## Alumni (MScs)
   - Antoine Laurent - co-supervised with Sébastien Gambs - 2019-2021 - Geoprivacy
-  - and a lor more i didn't track down
+  - and a lot more i didn't track down
