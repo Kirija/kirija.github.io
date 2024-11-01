@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ## Current PhD students
-  - Sofiane Azogagh - co-supervised with Sébastien Gambs - 2021-2025 - Chiffrement homomorphe et Apprentissage Machine
+  - [Sofiane Azogagh](https://sofianeazogagh.github.io) - co-supervised with Sébastien Gambs - 2021-2025 - Chiffrement homomorphe et Apprentissage Machine
   - Aubin Birba - co-supervised with Sébastien Gambs - 2022-2026 - Calcul Multi-parties Sécuritaire et Apprentissage Machine
   - Victor Delfour - 2022-2026 - Chiffrement homomorphe et calcul inconscient
 
