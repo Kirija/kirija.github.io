@@ -10,6 +10,8 @@ redirect_from:
   - [Sofiane Azogagh](https://sofianeazogagh.github.io) - co-supervised with Sébastien Gambs - 2021-2025 - Chiffrement homomorphe et Apprentissage Machine
   - Aubin Birba - co-supervised with Sébastien Gambs - 2022-2026 - Calcul Multi-parties Sécuritaire et Apprentissage Machine
   - Victor Delfour - 2022-2026 - Chiffrement homomorphe et calcul inconscient
+  - Claire Guichemerre - co-supervised with Tristan Allard - 2024-2027 - Privacy preserving centrality measures
+  - Louis Tremblay Thibault - co-supervised with Ulrich Aïvodji - 2024-2028 - TFHE and Snarks
 
 ## Alumni (PhDs)
 
