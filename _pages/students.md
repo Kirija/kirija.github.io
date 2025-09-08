@@ -11,6 +11,7 @@ redirect_from:
   - Aubin Birba - co-supervised with Sébastien Gambs - 2022-2026 - Calcul Multi-parties Sécuritaire et Apprentissage Machine
   - Victor Delfour - 2022-2026 - Chiffrement homomorphe et calcul inconscient
   - Claire Guichemerre - co-supervised with Tristan Allard - 2024-2027 - Privacy preserving centrality measures
+  - Félix Larose-Gervais - 2025-2029 - Algorithmique inconsciente
   - Louis Tremblay Thibault - co-supervised with Ulrich Aïvodji - 2024-2028 - TFHE and Snarks
 
 ## Alumni (PhDs)
@@ -23,17 +24,19 @@ redirect_from:
   - Hoang Nam Chu - co-supervised with David Powell - 2011 - Test et évaluation de la robustesse de la couche fonctionnelle d’un robot autonome - Consultant Qualité Logiciel et Système Altran, France
   - [Caroline Lu](https://www.linkedin.com/in/caroline-lu-7051498a/) - co-supervised with Jean-Charles Fabre - 2009 - Logiciel embarqué automobile, Réflexivité, Tolérance aux fautes - Cheffe de la Sécurité SolarEdge e-Mobility, Allemagne
   - Thomas Pareaud - co-supervised with Jean-Charles Fabre - 2009 - Adaptation en ligne de mécanismes de tolérance aux fautes par une approche à composants ouverts - Ingénieur de Recherche EADS, France
-  - [Benjamin Lussier](https://www.hds.utc.fr/~blussier) - co-supervised with David Powell - 2007 - Tolérance aux fautes dans les systèmes autonomes - Professeur Université Tech- nologique de Compiègne, France
+  - [Benjamin Lussier](https://www.hds.utc.fr/~blussier) - co-supervised with David Powell - 2007 - Tolérance aux fautes dans les systèmes autonomes - Professeur Université Technologique de Compiègne, France
   - [Ludovic Courtès](http://people.bordeaux.inria.fr/lcourtes/) - co-supervised with David Powell - 2007 - Sauvegarde coopérative de données pour dispositifs mobiles - Ingénieur de Recherche INRIA, France
   - Taha Bennani - co-supervised with Jean-Charles Fabre - 2005 - Tolérance aux fautes dans les systèmes répartis à base d’intergiciels réflexifs standards - Professeur Université de Tunis, Tunisie
   - [François Taïani](https://ftaiani.ouvaton.org) - co-supervised with Jean-Charles Fabre - 2004 - Réflexivité dans les architectures multi- niveaux : application aux systèmes tolérant les fautes - Professeur Université de Rennes, France
   - [Juan-Carlos Ruiz-Garcia](http://www.upv.es/pls/oalu/sic_per.info_persona?PE=78mSD%2FYIsTjcqGHggsf0ONTIL%2Bpmbukm8EM9eMosdof0i7lVQyCjFXaFOtRc0p0zAyXOIfqvaKoqEy%2FaL%2Fe%2F6dh3BDCFeeGAv%2FtALmMVDV2WOWhfkW%2F7VA%3D%3D&P_IDIOMA=c&P_TIPOBUS=0&P_VISTA=) - co-supervised with Jean-Charles Fabre - 2002 - Validation de systèmes réflexifs tolérants aux fautes - Professeur Universitat Politècnica de València, Espagne
 
 ## Current MScs students
-  - Mohadeseh Bagheri - 2023-2025 - Attaques d'appartenance par modèles ombres en boite noire
-  - Mahsa Abdoli - 2023-2025 - Attaques d'empoisonnement sur des GNNs
-  - Félix Larose-ÀGervais - 2024-2026 - Tri inconscient
+	- Ziad Ech-Chiadmi - co-encadré avec Jean-François Rajotte - LLM et mots de passe
+	- Lisa Oulbsir - FHE et services géo-localisés
 
 ## Alumni (MScs)
+  - Mohadeseh Bagheri - 2023-2025 - Attaques d'appartenance par modèles ombres en boite noire
+  - Mahsa Abdoli - 2023-2025 - Attaques d'empoisonnement sur des GNNs
+  - Félix Larose-ÀGervais - 2024-2025 - Tri inconscient
   - Antoine Laurent - co-supervised with Sébastien Gambs - 2019-2021 - Geoprivacy
   - and a lot more i didn't track down
