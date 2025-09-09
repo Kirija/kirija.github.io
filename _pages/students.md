@@ -31,6 +31,7 @@ redirect_from:
   - [Juan-Carlos Ruiz-Garcia](http://www.upv.es/pls/oalu/sic_per.info_persona?PE=78mSD%2FYIsTjcqGHggsf0ONTIL%2Bpmbukm8EM9eMosdof0i7lVQyCjFXaFOtRc0p0zAyXOIfqvaKoqEy%2FaL%2Fe%2F6dh3BDCFeeGAv%2FtALmMVDV2WOWhfkW%2F7VA%3D%3D&P_IDIOMA=c&P_TIPOBUS=0&P_VISTA=) - co-supervised with Jean-Charles Fabre - 2002 - Validation de systèmes réflexifs tolérants aux fautes - Professeur Universitat Politècnica de València, Espagne
 
 ## Current MScs students
+
 	- [Ziad Ech-Chiadmi](https://www.linkedin.com/in/ziad-e-009901349/) - co-encadré avec Jean-François Rajotte - LLM et mots de passe
 	- Lisa Oulebsir - FHE et services géo-localisés
 
