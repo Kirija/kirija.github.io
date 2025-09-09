@@ -28,12 +28,12 @@ redirect_from:
   - [Ludovic Courtès](http://people.bordeaux.inria.fr/lcourtes/) - co-supervised with David Powell - 2007 - Sauvegarde coopérative de données pour dispositifs mobiles - Ingénieur de Recherche INRIA, France
   - Taha Bennani - co-supervised with Jean-Charles Fabre - 2005 - Tolérance aux fautes dans les systèmes répartis à base d’intergiciels réflexifs standards - Professeur Université de Tunis, Tunisie
   - [François Taïani](https://ftaiani.ouvaton.org) - co-supervised with Jean-Charles Fabre - 2004 - Réflexivité dans les architectures multi- niveaux : application aux systèmes tolérant les fautes - Professeur Université de Rennes, France
-  - [Juan-Carlos Ruiz-Garcia](http://www.upv.es/pls/oalu/sic_per.info_persona?PE=78mSD%2FYIsTjcqGHggsf0ONTIL%2Bpmbukm8EM9eMosdof0i7lVQyCjFXaFOtRc0p0zAyXOIfqvaKoqEy%2FaL%2Fe%2F6dh3BDCFeeGAv%2FtALmMVDV2WOWhfkW%2F7VA%3D%3D&P_IDIOMA=c&P_TIPOBUS=0&P_VISTA=) - co-supervised with Jean-Charles Fabre - 2002 - Validation de systèmes réflexifs tolérants aux fautes - Professeur Universitat Politècnica de València, Espagne
+  - [Juan-Carlos Ruiz-Garcia](http://www.upv.es/pls/oalu/sic_per.info_persona?PE=78mSD%2FYIsTjcqGHggsf0ONTIL%2Bpmbukm8EM9eMosdof0i7lVQyCjFXaFOtRc0p0zAyXOIfqvaKoqEy%2FaL%2Fe%2F6dh3BDCFeeGAv%2FtALmMVDV2WOWhfkW%2F7VA%3D%3D&P_IDIOMA=c&P_TIPOBUS=0&P_VISTA=) - co-supervised with Jean-Charles Fabre - 2002 - Validation de systèmes réflexifs tolérants aux fautes - Professeur Universitat Politecnica de València, Espagne
 
 ## Current MScs students
 
-	- [Ziad Ech-Chiadmi](https://www.linkedin.com/in/ziad-e-009901349/) - co-encadré avec Jean-François Rajotte - LLM et mots de passe
-	- Lisa Oulebsir - FHE et services géo-localisés
+   - [Ziad Ech-Chiadmi](https://www.linkedin.com/in/ziad-e-009901349/) - co-encadré avec Jean-François Rajotte - LLM et mots de passe
+   - Lisa Oulebsir - FHE et services géo-localisés
 
 ## Alumni (MScs)
   - Mohadeseh Bagheri - 2023-2025 - Attaques d'appartenance par modèles ombres en boite noire
