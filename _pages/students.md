@@ -37,7 +37,7 @@ redirect_from:
 
 ## Alumni (MScs)
   - Mohadeseh Bagheri - 2023-2025 - Attaques d'appartenance par modèles ombres en boite noire
-  - Mahsa Abdoli - 2023-2025 - Attaques d'empoisonnement sur des GNNs
-  - Félix Larose-Gervais - 2024-2025 - Tri inconscient
-  - Antoine Laurent - co-supervised with Sébastien Gambs - 2019-2021 - Geoprivacy
+  - [Mahsa Abdoli](https://www.linkedin.com/in/mahsa-a-89b47584/) - 2023-2025 - Attaques d'empoisonnement sur des GNNs
+  - [Félix Larose-Gervais](https://www.linkedin.com/in/félix-larose-gervais-a6a187144/) - 2024-2025 - Tri inconscient
+  - [Antoine Laurent](https://www.linkedin.com/in/antoine-laurent-105300164/) - co-supervised with Sébastien Gambs - 2019-2021 - Geoprivacy
   - and a lot more i didn't track down
