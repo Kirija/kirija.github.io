@@ -7,15 +7,16 @@ redirect_from:
 ---
 
 ## Current PhD students
-  - [Sofiane Azogagh](https://sofianeazogagh.github.io) - co-supervised with Sébastien Gambs - 2021-2025 - Chiffrement homomorphe et Apprentissage Machine
-  - [Aubin Birba](https://www.linkedin.com/in/aubin-birba-5b8059181/) - co-supervised with Sébastien Gambs - 2022-2026 - Calcul Multi-parties Sécuritaire et Apprentissage Machine
-  - [Victor Delfour](https://www.linkedin.com/in/victor-delfour-8375901ba/) - 2022-2026 - Chiffrement homomorphe et calcul inconscient
   - [Claire Guichemerre](https://www.linkedin.com/in/claire-guichemerre-b6074324a/) - co-supervised with Tristan Allard - 2024-2027 - Privacy preserving centrality measures
   - [Félix Larose-Gervais](https://www.linkedin.com/in/félix-larose-gervais-a6a187144/) - 2025-2029 - Algorithmique inconsciente
+  - Divi Sinquin - co-supervised with Tristan Allard - 2026-2030 - Towards a Privacy-Preserving Vector Database based on Fully Homomorphic Encryption
   - [Louis Tremblay Thibault](https://www.linkedin.com/in/ltt/) - co-supervised with Ulrich Aïvodji - 2024-2028 - TFHE and Snarks
 
 ## Alumni (PhDs)
 
+  - [Aubin Birba](https://www.linkedin.com/in/aubin-birba-5b8059181/) - co-supervised with Sébastien Gambs - 2026 - Calcul Multi-Parties Sécuritaire et Apprentissage Equivoque - Chercheur Hitachi Energy, Canada
+  - [Victor Delfour](https://www.linkedin.com/in/victor-delfour-8375901ba/) - 2026 - Nouveaux mécanismes de protection de la vie privée par chiffrement homomorphe - Smartcard Side Channel Security Analyst SERMA Safety and Security, France
+  - [Sofiane Azogagh](https://sofianeazogagh.github.io) - co-supervised with Sébastien Gambs - 2026 - Application du chiffrement homomorphe à l’apprentissage machine pour assurer la confidentialité des données - Postdoc Eurécom, France
   - [Cédric Lefebvre](https://www.linkedin.com/in/cédric-lefebvre-b67059261/) - co-supervised with Carlos Aguilar - 2021 - Application of Homomorphic Encryption to Privacy Enhancing Technologies - Ingénieur Sécurité Custocy, France
   - [Ulrich Aïvodji](https://aivodji.github.io) - co-supervised with Marie-Jo Huguet - 2018 - Technologies respectueuses de la vie privée pour le covoiturage - Professeur ÉTS Montréal
   - [Joris Barrier](https://www.linkedin.com/in/dr-joris-barrier-8248ba159/) - co-supervised with Carlos Aguilar - 2016 - Chiffrement homomorphe appliqué au retrait d’information privé - Ingénieur Sécurité Siemens, France
